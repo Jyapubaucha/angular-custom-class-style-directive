@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-custom-class-style-directive';
+
+  active: boolean = true;
 }
